@@ -15,6 +15,7 @@ public class Teste {
      */
     public static void main(String[] args) {
         int numero=0;
+        String s;
         
     }
 }
